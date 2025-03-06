@@ -1,5 +1,7 @@
 export type RootStackParamList = {
-  Home: undefined;
+  Login: undefined;
+  Signup: undefined;
+  Dashboard: undefined;
   // Add more screens here
 };
 
